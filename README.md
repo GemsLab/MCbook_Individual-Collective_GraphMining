@@ -8,12 +8,12 @@
 
 ## Chapter 3: Inference in a Graph ##
 
-#### Two Classes
+### Two Classes
 [FaBP code](http://web.eecs.umich.edu/~dkoutra/CODE/fabp.zip)
 
 [Slides](http://web.eecs.umich.edu/~dkoutra/presentations/pkdd_presentation_website.ppsx)
 
-#### Multiple Classes
+### Multiple Classes
 [mFaBP code](https://github.com/sslh/sslh.git) -- in python
 
 [SQL code](http://github.com/sslh/linBP/)
