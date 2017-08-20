@@ -1,5 +1,3 @@
-#### MCbook_Individual-Collective_GraphMining
-
 # Morgan-Claypool Book -- Individual and Collective Graph Mining: Principles, Algorithms and Applications
 
 ## Code for Chapter 2: Summarization of Static Graphs ##
