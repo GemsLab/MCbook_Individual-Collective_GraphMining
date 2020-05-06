@@ -1,6 +1,24 @@
 ### Morgan-Claypool Book
 # Individual and Collective Graph Mining: Principles, Algorithms and Applications
 
+*Authors*: Danai Koutra, Christos Faloutsos
+
+*Link*: https://www.morganclaypool.com/doi/10.2200/S00796ED1V01Y201708DMK014 
+
+*Keywords*: data mining, graph mining and exploration, graph similarity, graph matching, network alignment, graph summarization, pattern mining, outlier detection, anomaly detection, scalability, fast algorithms, visualization, social networks, brain graphs, connectomes
+
+**Citation (bibtex)**:
+```
+@book{KoutraF17,
+  author    = {Danai Koutra and
+               Christos Faloutsos},
+  title     = {Individual and Collective Graph Mining: Principles, Algorithms and Applications},
+  publisher = {Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool}, 
+  year      = {2017},
+  pages     = {206}
+  }
+```
+
 ## Chapter 2: Summarization of Static Graphs ##
 [VoG code  (Matlab / Python)](https://github.com/GemsLab/VoG_Graph_Summarization.git)
 
